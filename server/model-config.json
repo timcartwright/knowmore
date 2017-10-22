@@ -34,5 +34,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "article": {
+    "dataSource": "db",
+    "public": true
   }
 }
